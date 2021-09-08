@@ -101,7 +101,7 @@ public class hello {
 				}
 			} catch (Exception e) {
 				
-				System.out.println(e + "a");
+				System.out.println("entrada invalida");
 			}
 
 		} while (option != 5);
